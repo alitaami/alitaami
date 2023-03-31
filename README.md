@@ -19,13 +19,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/net-logo-13E6F1F153-seeklogo.com.png" alt=".net" width="40" height="40"/> </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt=".net" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" alt="Sql" width="40" height="40"/> </a>
-    <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" alt="Swagger" width="40" height="40"/> </a>
-   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/V/visual-studio-icon-2022-logo-8E86B4B761-seeklogo.com.png" alt="Sql" width="40" height="40"/> </a>
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" alt="Sql" width="40" height="40"/> </a>
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" alt="Sql" width="40" height="40"/> </a></p>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg" alt="Sql" width="40" height="40"/> </a>
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/S/Swagger-icon-vector-02.svg" alt="Swagger" width="40" height="40"/> </a>
+   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/V/Visual-studio-icon-vector-02.svg" alt="Sql" width="40" height="40"/> </a>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="Sql" width="40" height="40"/> </a>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="Sql" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitaami&show_icons=true&locale=en&layout=compact" alt="mahdiporkar-github" /></p>
 
