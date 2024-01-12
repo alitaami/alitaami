@@ -19,14 +19,18 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt=".net" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt=".net" width="40" height="40"/> </a>   
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/V/Visual-studio-icon-vector-02.svg" alt="Sql" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/M/Microsoft-sql-server-logo-vector-01.svg" alt="Sql" width="40" height="40"/> </a>
-    <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/S/Swagger-icon-vector-02.svg" alt="Swagger" width="40" height="40"/> </a>
-   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/V/Visual-studio-icon-vector-02.svg" alt="Sql" width="40" height="40"/> </a>
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="Sql" width="40" height="40"/> </a>
-   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="Sql" width="40" height="40"/> </a></p>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="Html" width="40" height="40"/></a>
+    <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/C/Css-3-icon-vector-02.svg" alt="Css" width="40" height="40"/></a>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/D/Docker-logo-vector-01.svg" alt="Docker" width="40" height="40"/> </a></p>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/P/Postman-icon-vector-02.svg" alt="Postman" width="40" height="40"/> </a></p>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/S/Swagger-icon-vector-02.svg" alt="Swagger" width="40" height="40"/> </a></p>
+   <a href="" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/icon-download/R/Redis-icon-vector-03.svg" alt="Redis" width="40" height="40"/> </a></p>
+ 
 
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alitaami&show_icons=true&locale=en&layout=compact"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alitaami&show_icons=true&locale=en" /></p>
