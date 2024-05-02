@@ -42,9 +42,6 @@
     </a>
 </p>
 <p align="left">
-  <a href="" target="_blank" rel="noreferrer">
-        <img src="https://miro.medium.com/v2/resize:fit:800/1*nq7xDl4vmA_qK_Q76vFsSg.png" alt="EfCore" width="60" height="40"/>
-    </a>
     <a href="" target="_blank" rel="noreferrer">
         <img src="https://brandeps.com/icon-download/P/Postman-icon-vector-02.svg" alt="Postman" width="40" height="40"/>
     </a>
