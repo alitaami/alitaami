@@ -9,7 +9,7 @@
 
 **About me**
 
-- 🌱 I’m learning and working hard to become **Senior .Net Core Developer**
+- 🌱  On a journey to becoming a highly skilled **.Net Core Developer**
 
 - 💬 Ask me about  **C# and .Net Core** 
 
