@@ -9,9 +9,9 @@
 
 **About me**
 
-- 🌱  On a journey to becoming a highly skilled **.Net Core Developer**
+- 🌱  On a journey to becoming a highly skilled **.Net Develope**
 
-- 💬 Ask me about  **C# and .Net Core** 
+- 💬 Ask me about  **C# and .Net** 
 
 - 📫 You can reach me from **alitaami81@gmail.com**
 
