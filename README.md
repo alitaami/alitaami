@@ -9,7 +9,7 @@
 
 **About me**
 
-- 🌱  On a journey to becoming a highly skilled **.Net Developer**
+- 🌱 On a journey to becoming a highly skilled **.Net Developer**
 
 - 💬 Ask me about  **C# and .Net** 
 
