@@ -6,7 +6,7 @@
 </p> 
 
 ## 👨‍💻 About Me 
-- 🧠 Aspiring **.NET Developer** focused on writing clean, scalable, and maintainable code  
+- 🧠 Aspiring **.NET Developer** focused on writing clean, scalable, and maintainable code   
 - 🚀 Actively learning and building projects with **C#**, **ASP.NET Core**, and **SQL Server**   
 - 🛠️ Interested in **Backend Development**, **API Development**, and **Architecture Patterns**  
 - 💬 Ask me about **C#**, **.NET**, or anything backend  
