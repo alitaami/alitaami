@@ -1,4 +1,4 @@
-  ![MasterHead](https://github.com/alitaami/alitaami/assets/116227297/c8cc5a57-d672-48ba-b2ea-b386205391e6)
+   ![MasterHead](https://github.com/alitaami/alitaami/assets/116227297/c8cc5a57-d672-48ba-b2ea-b386205391e6)
       
 <h1 align="center">Hi 👋, I'm Ali</h1>  
 <p align="center">   
