@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=alitaami-github&label=Profile%20views&color=0e75b6&style=flat" alt="alitaami-github" />
 </p> 
  
-## 👨‍💻 About Me 
+## 👨‍💻 About Me  
 - 🧠 Aspiring **.NET Developer** focused on writing clean, scalable, and maintainable code   
 - 🚀 Actively learning and building projects with **C#** & **.NET**  
 - 🛠️ Interested in **Backend Development**, **API Development**, and **Architecture Patterns**  
