@@ -1,6 +1,6 @@
    ![MasterHead](https://github.com/alitaami/alitaami/assets/116227297/c8cc5a57-d672-48ba-b2ea-b386205391e6)
        
-<h1 align="center">Hi 👋, I'm Ali</h1>  
+<h1 align="center">Hi 👋, I'm Ali</h1>   
 <p align="center">   
   <img src="https://komarev.com/ghpvc/?username=alitaami-github&label=Profile%20views&color=0e75b6&style=flat" alt="alitaami-github" />
 </p> 
