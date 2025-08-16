@@ -13,7 +13,7 @@
 - 📫 Reach me at: **alitaami81@gmail.com**
 
 ## 🤝 Connect with Me
-
+ 
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-taami-2745a525b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
