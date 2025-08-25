@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me  
 - 🧠 Aspiring **.NET Developer** focused on writing clean, scalable, and maintainable code   
 - 🚀 Actively learning and building projects with **C#** & **.NET**  
-- 🛠️ Interested in **Backend Development**, **API Development**, and **Architecture Patterns**  
+- 🛠️ Interested in **Backend Development**, **API Development** and **Architecture Patterns**  
 - 💬 Ask me about **C#**, **.NET**, or anything backend  
 - 📫 Reach me at: **alitaami81@gmail.com**
 
