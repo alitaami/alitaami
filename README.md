@@ -10,7 +10,7 @@
 - 🚀 Actively learning and building projects with **C#** & **.NET**  
 - 🛠️ Interested in **Backend Development**, **API Development** and **Architecture Patterns**  
 - 💬 Ask me about **C#**, **.NET**, or anything backend  
-- 📫 Reach me at: **alitaami2002@gmail.com**
+- 📫 Reach me at: **alitaami.dev@gmail.com**
  
 ## 🤝 Connect with Me    
   
