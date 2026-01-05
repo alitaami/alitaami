@@ -50,13 +50,13 @@
   </a>
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://brandeps.com/icon-download/R/Redis-icon-vector-03.svg" alt="Redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://brandeps.com/icon-download/M/Mongodb-icon-vector-03.svg" alt="MongoDB" width="60" height="40"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/user-attachments/assets/fd951342-0db1-45ae-a3ad-37f6e8b3ac9d"  alt="mongo" width="40" height="40"/>
   </a>  
 </p>
 
 ---
 
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alitaami&show_icons=true&theme=merko)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=alitaami&show_icons=true&theme=dark)
